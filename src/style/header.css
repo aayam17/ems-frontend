@@ -1,0 +1,23 @@
+.column {
+    background-color: #232323;
+    height: 60px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    margin-left: 200px;
+}
+
+.column p {
+    color: white;
+    font-size: 24px;
+    margin: 0;
+}
+
+.navi{
+    cursor: pointer;
+}
